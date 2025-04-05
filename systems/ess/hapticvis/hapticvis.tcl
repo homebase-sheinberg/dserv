@@ -6,7 +6,7 @@
 ##    System for creating haptic visual shape paradigms
 ##
 
-
+test
 package require ess
 
 namespace eval hapticvis {

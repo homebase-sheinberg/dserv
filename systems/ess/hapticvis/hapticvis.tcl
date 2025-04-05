@@ -5,7 +5,7 @@
 ##  DECRIPTION
 ##    System for creating haptic visual shape paradigms
 ##
-
+adding ryan
 package require ess
 
 namespace eval hapticvis {

@@ -5,7 +5,7 @@
 # DESCRIPTION
 #   variant dictionary for visual and haptic identity learning
 #
-
+test
 
 #
 # Currently only supports 4, 6, 8 choices properly

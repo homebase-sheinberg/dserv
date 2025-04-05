@@ -4,7 +4,7 @@
 ##
 ## DESCRIPTION
 ##   Present a shape and subject selects matching spatial location
-##
+##  
 
 namespace eval hapticvis::identify {
     proc protocol_init { s } {

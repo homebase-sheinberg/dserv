@@ -9,7 +9,6 @@
 # 2 as ryan
 # 4 as admin
 # 5 as ryan
-# 6 as admin
 #
 # Currently only supports 4, 6, 8 choices properly
 #   The "correct_choice" is numbered 1-n_choices

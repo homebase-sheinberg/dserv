@@ -6,6 +6,7 @@
 #   variant dictionary for visual and haptic identity learning
 #
 #1.0.2?
+# petes changing things
 
 #2.0.0?
 

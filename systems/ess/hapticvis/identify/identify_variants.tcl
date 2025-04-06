@@ -7,6 +7,7 @@
 #
 # 1 as admin
 # 2 as admin
+# 3 as admin
 
 #
 # Currently only supports 4, 6, 8 choices properly

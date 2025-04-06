@@ -11,7 +11,7 @@
 # AUTHOR
 #   DLS
 #
-
+# test
 # find the shader dir
 set stimdir [file dir [info nameofexecutable]]
 set paths {

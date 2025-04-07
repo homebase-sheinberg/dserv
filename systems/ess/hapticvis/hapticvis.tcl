@@ -3,7 +3,7 @@
 ##    hapticvis.tcl
 ##
 ##  DECRIPTION
-##    System for creating haptic visual shape paradigms
+##    System for creating haptic/visual shape paradigms
 ##
 
 package require ess

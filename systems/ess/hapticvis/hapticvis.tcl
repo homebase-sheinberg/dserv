@@ -5,7 +5,6 @@
 ##  DECRIPTION
 ##    System for creating haptic/visual shape paradigms
 ##
-## important
 
 package require ess
 
